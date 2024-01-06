@@ -1,2 +1,2 @@
-# cat-house-project
-Landing Page marked up with CSS Grid
+# Cat-house-project
+The Landing Page with an adaptive layout created using CSS Grid technology
